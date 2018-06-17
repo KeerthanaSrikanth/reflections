@@ -23,6 +23,11 @@ Ans. By comparing the working directory to the staging area and the staging area
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Ans.1) Alternative versions of program.
+2)Experimental changes to program.
+3) Adding code that might break the program, but we want a functional version on hand.
+
+****************************************************************************************************
 
 How do the diagrams help you visualize the branch structure?
 
