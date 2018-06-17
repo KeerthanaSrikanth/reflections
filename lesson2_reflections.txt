@@ -30,6 +30,9 @@ Ans.1) Alternative versions of program.
 ****************************************************************************************************
 
 How do the diagrams help you visualize the branch structure?
+Ans. We know where the branching happens, which branch has how much in common with the others.
+
+****************************************************************************************************
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
