@@ -9,3 +9,12 @@ Ans. Your local changes might conflict with the remote changes or may include a 
 want to include since multiple people may be contributing to a remote repository.
 
 *******************************************************************************************
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+Ans. Fork=Copy of a repository on GitHub. Usually someone else's repository which you can't change.
+A fork is your own copy which you can make commits to.
+Clone=A local copy of the repository on your system.
+Branch=Different versions of your program. 
+
+*******************************************************************************************
