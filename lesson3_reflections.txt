@@ -18,3 +18,11 @@ Clone=A local copy of the repository on your system.
 Branch=Different versions of your program. 
 
 *******************************************************************************************
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+Ans. Allows to run git diff and git status to check the differences between one's branch and
+the latest verson of the remote without having to update one's branch or be online.
+This can allow better working. 
+
+******************************************************************************************
