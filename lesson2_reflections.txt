@@ -36,6 +36,8 @@ Ans. We know where the branching happens, which branch has how much in common wi
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Ans. The tips of the two branches are merged by comparing with the root of the diversion of the branches.
+A new commit is created. One of the merged branches is always the checkout branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
