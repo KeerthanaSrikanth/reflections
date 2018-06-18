@@ -39,6 +39,17 @@ the diagram the way we do?
 Ans. The tips of the two branches are merged by comparing with the root of the diversion of the branches.
 A new commit is created. One of the merged branches is always the checkout branch.
 
+****************************************************************************************************
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Ans. Automatic Merging:
+Pros: Less work for us.
+Cons: Can ignore conflicts and create nonsensical code which may not compile or run.
+
+Manual Merging:
+Pros: Creates conflict free code and possibly the best version.
+Cons: Lots of labour.
+
+****************************************************************************************************
 
