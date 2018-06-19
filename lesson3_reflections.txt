@@ -36,3 +36,10 @@ Easier: The necessity to learn Git and GitHub wouldn't be there. It would make c
 first-time contributers.
 
 *******************************************************************************************
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ans. When we are collaborating on a project. Modifying a separate branch allows people to review our changes before modifying master. 
+This ensures master is always working, ever broken and also that all the changes to master are agreen upon by everyone.
+Direct modification of master is less complicated and faster.
+
+*********************************************************************************************
