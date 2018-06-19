@@ -26,3 +26,13 @@ the latest verson of the remote without having to update one's branch or be onli
 This can allow better working. 
 
 ******************************************************************************************
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans. Probably send code snippets via email to simulate pull requests. 
+Keep a master copy of the code on a website where people can download it. 
+
+Harder: Version control would be harder. Also, diff and log advantages would be lost.
+Easier: The necessity to learn Git and GitHub wouldn't be there. It would make collaboration easy for
+first-time contributers.
+
+*******************************************************************************************
